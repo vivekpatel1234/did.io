@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/v2"
+    ],
+    "id": "did:web:vivekpatel1234.github.io",
+    "authentication": ["did:web:vivekpatel1234.github.io#z6Mks8g93BDKuor6A3p4tR73xUo3NCy2e23q6QwdCj9VtKNZ"],
+    "verificationMethod": [
+        {
+            "id": "did:web:vivekpatel1234.github.io#z6Mks8g93BDKuor6A3p4tR73xUo3NCy2e23q6QwdCj9VtKNZ",
+            "type": "Ed25519VerificationKey2018",
+            "controller": "did:web:vivekpatel1234.github.io",
+            "publicKeyBase58": "DgR6SvxtaGMd3YyNCr9D7PF3YdhBE8oUQQ2hNTBUy6bB"
+        }
+    ],
+    "alsoKnownAs": [],
+    "assertionMethod": ["did:web:vivekpatel1234.github.io#z6Mks8g93BDKuor6A3p4tR73xUo3NCy2e23q6QwdCj9VtKNZ"]
+}
+
+
+
